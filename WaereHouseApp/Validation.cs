@@ -36,6 +36,20 @@ namespace WaereHouseApp
             return number;
         }
 
+        public static int ValidateIntMaxMin(string numberString, out int number, string problem, string question, int max, int min)
+        {
+            while (!int.TryParse(numberString, out number) || number < min || number > max)
+            {
+                //tell problem
+                Console.WriteLine(problem);
+                //re ask question
+                Console.Write(question);
+                //re get answer
+                numberString = Console.ReadLine();
+            }
+            return number;
+        }
+
 
 
         public static bool ValidateRange(int numberToCheck, int min, int max)

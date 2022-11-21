@@ -39,7 +39,19 @@ namespace WaereHouseApp
 
         private void Selection()
         {
-            UI.Footer("Press any Button to continue!");
+            if (_loggedIn)
+            {
+                Console.WriteLine("user logged in");
+            }
+            else
+            {
+                //choose menu item
+                Console.WriteLine("Please Choose a number from the list above!");
+                string UserPickStr = Console.ReadLine();
+
+                int userPick;
+
+            }
         }
     }
 }
