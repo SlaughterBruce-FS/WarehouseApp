@@ -1,0 +1,15 @@
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/bin/Debug/net7.0/WaereHouseApp
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/bin/Debug/net7.0/WaereHouseApp.deps.json
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/bin/Debug/net7.0/WaereHouseApp.runtimeconfig.json
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/bin/Debug/net7.0/WaereHouseApp.dll
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/bin/Debug/net7.0/WaereHouseApp.pdb
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/WaereHouseApp.csproj.AssemblyReference.cache
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/WaereHouseApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/WaereHouseApp.AssemblyInfoInputs.cache
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/WaereHouseApp.AssemblyInfo.cs
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/WaereHouseApp.csproj.CoreCompileInputs.cache
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/WaereHouseApp.dll
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/refint/WaereHouseApp.dll
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/WaereHouseApp.pdb
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/WaereHouseApp.genruntimeconfig.cache
+/Volumes/Untitled/C#/WaereHouseApp/WaereHouseApp/obj/Debug/net7.0/ref/WaereHouseApp.dll
