@@ -46,10 +46,32 @@ namespace WaereHouseApp
             else
             {
                 //choose menu item
-                Console.WriteLine("Please Choose a number from the list above!");
+                Console.Write("Please Choose a menu option: ");
                 string UserPickStr = Console.ReadLine();
 
                 int userPick;
+
+                Validation.ValidateIntMaxMin(UserPickStr, out userPick, "Please only choose a number from the list above.", "Please Choose a menu option: ", 4, 1);
+
+                switch (userPick)
+                {
+                    case 1:
+                        Console.WriteLine("create user");
+                        UI.Footer("press any key to continue");
+                        break;
+                    case 2:
+                        Console.WriteLine("Log in");
+                        UI.Footer("press any key to continue");
+                        break;
+                    case 3:
+                        Console.WriteLine("about");
+                        UI.Footer("press any key to continue");
+                        break;
+                    case 4:
+                        Console.WriteLine("exit");
+                        UI.Footer("press any key to continue");
+                        break;
+                }
 
             }
         }
